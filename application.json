@@ -36,6 +36,10 @@
     {
       "id": "Public.users2",
       "isDefault": false
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
