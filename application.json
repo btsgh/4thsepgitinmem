@@ -18,8 +18,24 @@
   "icon": "moon",
   "pages": [
     {
+      "id": "Calendar Mobile",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Public.users",
+      "isDefault": false
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
+    },
+    {
+      "id": "Public.users2",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
